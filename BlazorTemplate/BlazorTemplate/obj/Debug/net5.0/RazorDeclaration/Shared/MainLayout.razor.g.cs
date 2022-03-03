@@ -82,6 +82,13 @@ using BlazorTemplate.Shared;
 #line default
 #line hidden
 #nullable disable
+#nullable restore
+#line 11 "P:\Repositories\Blazor\BlazorTemplate\BlazorTemplate\_Imports.razor"
+using System.Data;
+
+#line default
+#line hidden
+#nullable disable
     public partial class MainLayout : LayoutComponentBase
     {
         #pragma warning disable 1998

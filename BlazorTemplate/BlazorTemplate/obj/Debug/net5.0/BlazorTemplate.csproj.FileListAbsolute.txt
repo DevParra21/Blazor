@@ -18,8 +18,6 @@ P:\Repositories\Blazor\BlazorTemplate\BlazorTemplate\obj\Debug\net5.0\BlazorTemp
 P:\Repositories\Blazor\BlazorTemplate\BlazorTemplate\obj\Debug\net5.0\BlazorTemplate.MvcApplicationPartsAssemblyInfo.cache
 P:\Repositories\Blazor\BlazorTemplate\BlazorTemplate\obj\Debug\net5.0\BlazorTemplate.RazorComponent.input.cache
 P:\Repositories\Blazor\BlazorTemplate\BlazorTemplate\obj\Debug\net5.0\RazorDeclaration\App.razor.g.cs
-P:\Repositories\Blazor\BlazorTemplate\BlazorTemplate\obj\Debug\net5.0\RazorDeclaration\Pages\Counter.razor.g.cs
-P:\Repositories\Blazor\BlazorTemplate\BlazorTemplate\obj\Debug\net5.0\RazorDeclaration\Pages\FetchData.razor.g.cs
 P:\Repositories\Blazor\BlazorTemplate\BlazorTemplate\obj\Debug\net5.0\RazorDeclaration\Pages\Index.razor.g.cs
 P:\Repositories\Blazor\BlazorTemplate\BlazorTemplate\obj\Debug\net5.0\RazorDeclaration\Shared\SurveyPrompt.razor.g.cs
 P:\Repositories\Blazor\BlazorTemplate\BlazorTemplate\obj\Debug\net5.0\RazorDeclaration\_Imports.razor.g.cs
@@ -31,8 +29,6 @@ P:\Repositories\Blazor\BlazorTemplate\BlazorTemplate\obj\Debug\net5.0\BlazorTemp
 P:\Repositories\Blazor\BlazorTemplate\BlazorTemplate\obj\Debug\net5.0\BlazorTemplate.TagHelpers.output.cache
 P:\Repositories\Blazor\BlazorTemplate\BlazorTemplate\obj\Debug\net5.0\BlazorTemplate.RazorCoreGenerate.cache
 P:\Repositories\Blazor\BlazorTemplate\BlazorTemplate\obj\Debug\net5.0\Razor\App.razor.g.cs
-P:\Repositories\Blazor\BlazorTemplate\BlazorTemplate\obj\Debug\net5.0\Razor\Pages\Counter.razor.g.cs
-P:\Repositories\Blazor\BlazorTemplate\BlazorTemplate\obj\Debug\net5.0\Razor\Pages\FetchData.razor.g.cs
 P:\Repositories\Blazor\BlazorTemplate\BlazorTemplate\obj\Debug\net5.0\Razor\Pages\Index.razor.g.cs
 P:\Repositories\Blazor\BlazorTemplate\BlazorTemplate\obj\Debug\net5.0\Razor\Shared\SurveyPrompt.razor.g.cs
 P:\Repositories\Blazor\BlazorTemplate\BlazorTemplate\obj\Debug\net5.0\Razor\_Imports.razor.g.cs
@@ -56,3 +52,7 @@ P:\Repositories\Blazor\BlazorTemplate\BlazorTemplate\obj\Debug\net5.0\ref\Blazor
 P:\Repositories\Blazor\BlazorTemplate\BlazorTemplate\obj\Debug\net5.0\BlazorTemplate.pdb
 P:\Repositories\Blazor\BlazorTemplate\BlazorTemplate\obj\Debug\net5.0\BlazorTemplate.genruntimeconfig.cache
 P:\Repositories\Blazor\BlazorTemplate\BlazorTemplate\obj\Debug\net5.0\BlazorTemplate.csproj.CopyComplete
+P:\Repositories\Blazor\BlazorTemplate\BlazorTemplate\bin\Debug\net5.0\ModeloClasesAlumnos.dll
+P:\Repositories\Blazor\BlazorTemplate\BlazorTemplate\bin\Debug\net5.0\ModeloClasesAlumnos.pdb
+P:\Repositories\Blazor\BlazorTemplate\BlazorTemplate\obj\Debug\net5.0\RazorDeclaration\Pages\ListaAlumnos.razor.g.cs
+P:\Repositories\Blazor\BlazorTemplate\BlazorTemplate\obj\Debug\net5.0\Razor\Pages\ListaAlumnos.razor.g.cs

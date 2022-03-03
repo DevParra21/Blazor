@@ -82,6 +82,13 @@ using BlazorTemplate.Shared;
 #line default
 #line hidden
 #nullable disable
+#nullable restore
+#line 11 "P:\Repositories\Blazor\BlazorTemplate\BlazorTemplate\_Imports.razor"
+using System.Data;
+
+#line default
+#line hidden
+#nullable disable
     public partial class NavMenu : Microsoft.AspNetCore.Components.ComponentBase
     {
         #pragma warning disable 1998
@@ -90,7 +97,7 @@ using BlazorTemplate.Shared;
         }
         #pragma warning restore 1998
 #nullable restore
-#line 28 "P:\Repositories\Blazor\BlazorTemplate\BlazorTemplate\Shared\NavMenu.razor"
+#line 23 "P:\Repositories\Blazor\BlazorTemplate\BlazorTemplate\Shared\NavMenu.razor"
        
     private bool collapseNavMenu = true;
 

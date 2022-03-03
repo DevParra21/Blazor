@@ -1,0 +1,12 @@
+P:\Repositories\Blazor\BlazorTemplate\ModeloClasesAlumnos\bin\Debug\net5.0\ModeloClasesAlumnos.deps.json
+P:\Repositories\Blazor\BlazorTemplate\ModeloClasesAlumnos\bin\Debug\net5.0\ModeloClasesAlumnos.dll
+P:\Repositories\Blazor\BlazorTemplate\ModeloClasesAlumnos\bin\Debug\net5.0\ref\ModeloClasesAlumnos.dll
+P:\Repositories\Blazor\BlazorTemplate\ModeloClasesAlumnos\bin\Debug\net5.0\ModeloClasesAlumnos.pdb
+P:\Repositories\Blazor\BlazorTemplate\ModeloClasesAlumnos\obj\Debug\net5.0\ModeloClasesAlumnos.GeneratedMSBuildEditorConfig.editorconfig
+P:\Repositories\Blazor\BlazorTemplate\ModeloClasesAlumnos\obj\Debug\net5.0\ModeloClasesAlumnos.AssemblyInfoInputs.cache
+P:\Repositories\Blazor\BlazorTemplate\ModeloClasesAlumnos\obj\Debug\net5.0\ModeloClasesAlumnos.AssemblyInfo.cs
+P:\Repositories\Blazor\BlazorTemplate\ModeloClasesAlumnos\obj\Debug\net5.0\ModeloClasesAlumnos.csproj.CoreCompileInputs.cache
+P:\Repositories\Blazor\BlazorTemplate\ModeloClasesAlumnos\obj\Debug\net5.0\ModeloClasesAlumnos.dll
+P:\Repositories\Blazor\BlazorTemplate\ModeloClasesAlumnos\obj\Debug\net5.0\ref\ModeloClasesAlumnos.dll
+P:\Repositories\Blazor\BlazorTemplate\ModeloClasesAlumnos\obj\Debug\net5.0\ModeloClasesAlumnos.pdb
+P:\Repositories\Blazor\BlazorTemplate\ModeloClasesAlumnos\obj\Debug\net5.0\ModeloClasesAlumnos.csproj.AssemblyReference.cache

@@ -82,7 +82,15 @@ using BlazorTemplate.Shared;
 #line default
 #line hidden
 #nullable disable
+#nullable restore
+#line 11 "P:\Repositories\Blazor\BlazorTemplate\BlazorTemplate\_Imports.razor"
+using System.Data;
+
+#line default
+#line hidden
+#nullable disable
     [Microsoft.AspNetCore.Components.RouteAttribute("/")]
+    [Microsoft.AspNetCore.Components.RouteAttribute("/index")]
     public partial class Index : Microsoft.AspNetCore.Components.ComponentBase
     {
         #pragma warning disable 1998
